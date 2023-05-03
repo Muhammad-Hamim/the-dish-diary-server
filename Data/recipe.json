@@ -1,0 +1,551 @@
+[
+  {
+    "id": 1,
+    "recipe_name": "Classic Cheeseburger",
+    "picture": "https://i.ibb.co/0FtR4ZB/Classic-Cheeseburger.webp",
+    "ingredients": [
+      "ground beef",
+      "cheddar cheese",
+      "lettuce",
+      "tomato",
+      "hamburger buns",
+      "mayonnaise",
+      "ketchup",
+      "mustard"
+    ],
+    "cooking_method": "1. Preheat a grill or grill pan to medium-high heat. 2. Form the ground beef into patties and season with salt and pepper. 3. Grill the burgers for 3-4 minutes per side, or until cooked through. 4. Top with cheese and let melt. 5. Assemble the burgers with lettuce, tomato, mayonnaise, ketchup, and mustard as desired.",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "recipe_name": "Chicken Alfredo",
+    "picture": "https://i.ibb.co/TBj8FTK/Chicken-Alfredo.jpg",
+    "ingredients": [
+      "fettuccine",
+      "chicken breast",
+      "heavy cream",
+      "parmesan cheese",
+      "garlic",
+      "butter",
+      "salt",
+      "pepper"
+    ],
+    "cooking_method": "1. Cook the fettuccine according to package instructions. 2. Season the chicken breast with salt and pepper, then cook in a pan until browned on both sides and cooked through. 3. Remove the chicken from the pan and set aside. 4. In the same pan, melt the butter and sauté the garlic. 5. Add the heavy cream and parmesan cheese and whisk until the sauce is smooth. 6. Add the cooked fettuccine and chicken to the sauce and toss to coat. 7. Serve hot.",
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "recipe_name": "BBQ Ribs",
+    "picture": "https://i.ibb.co/WBSckkv/BBQ-Ribs.jpg",
+    "ingredients": [
+      "pork ribs",
+      "BBQ sauce",
+      "brown sugar",
+      "garlic powder",
+      "onion powder",
+      "salt",
+      "pepper"
+    ],
+    "cooking_method": "1. Preheat the oven to 275°F. 2. Mix together the brown sugar, garlic powder, onion powder, salt, and pepper. 3. Rub the spice mixture onto the ribs. 4. Place the ribs in a baking dish and cover with foil. 5. Bake for 2.5-3 hours, or until the meat is tender. 6. Remove the foil and brush the ribs with BBQ sauce. 7. Turn the oven up to 350°F and bake for an additional 15-20 minutes, or until the sauce is sticky and caramelized.",
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "recipe_name": "Mac and Cheese",
+    "picture": "https://i.ibb.co/NxRb8xX/Mac-and-Cheese.jpg",
+    "ingredients": [
+      "elbow macaroni",
+      "cheddar cheese",
+      "milk",
+      "butter",
+      "flour",
+      "salt",
+      "pepper"
+    ],
+    "cooking_method": "1. Cook the elbow macaroni according to package instructions. 2. In a separate pot, melt the butter and whisk in the flour. 3. Slowly whisk in the milk, stirring constantly to avoid lumps. 4. Add the cheddar cheese and continue to stir until melted and combined. 5. Season with salt and pepper to taste. 6. Combine the cooked macaroni with the cheese sauce and stir to coat. 7. Serve hot.",
+    "rating": 4.4
+  },
+  {
+    "id": 5,
+    "recipe_name": "Southern Fried Chicken",
+    "picture": "https://i.ibb.co/kcSH0gW/Southern-Fried-Chicken.jpg",
+    "ingredients": [
+      "chicken pieces",
+      "buttermilk",
+      "flour",
+      "paprika",
+      "garlic powder",
+      "onion powder",
+      "salt",
+      "pepper",
+      "vegetable oil"
+    ],
+    "cooking_method": "1. Soak the chicken pieces in buttermilk for at least 2 hours. 2. In a separate bowl, mix together the flour, paprika, garlic powder, onion powder, salt, and pepper. 3. Coat the chicken pieces in the flour mixture. 4. Heat vegetable oil in a frying pan to 350°F. 5. Fry the chicken pieces in batches for 15-20 minutes, or until golden brown and cooked through. 6. Drain on paper towels before serving.",
+    "rating": 4.6
+  },
+  {
+    "id": 6,
+    "recipe_name": "Thai Green Curry",
+    "picture": "https://i.ibb.co/Dwhr01N/Thai-Green-Curry.jpg",
+    "ingredients": [
+      "chicken",
+      "coconut milk",
+      "green curry paste",
+      "fish sauce",
+      "sugar",
+      "bamboo shoots",
+      "bell peppers",
+      "green beans",
+      "basil leaves"
+    ],
+    "cooking_method": "1. Heat a large saucepan over medium heat. 2. Add the green curry paste and cook for 1 minute, stirring constantly. 3. Add the chicken and cook until browned. 4. Add the coconut milk, fish sauce, and sugar. 5. Bring to a boil, then reduce the heat and simmer for 10 minutes. 6. Add the bamboo shoots, bell peppers, and green beans. 7. Simmer for another 5 minutes. 8. Stir in the basil leaves and serve over rice.",
+    "rating": 4.5
+  },
+  {
+    "id": 1,
+    "recipe_name": "Tom Yum Goong",
+    "picture": "https://i.ibb.co/bvgTNwh/Tom-Yum-Goong.jpg",
+    "ingredients": [
+      "shrimp",
+      "lemongrass",
+      "kaffir lime leaves",
+      "galangal",
+      "bird's eye chilies",
+      "mushrooms",
+      "lime juice",
+      "fish sauce",
+      "sugar",
+      "coriander leaves"
+    ],
+    "cooking_method": "1. Bring water to boil in a pot. 2. Add lemongrass, kaffir lime leaves and galangal. 3. Add shrimp and mushrooms. 4. Add lime juice, fish sauce and sugar. 5. Add bird's eye chilies to taste. 6. Bring to a boil and cook for a few minutes. 7. Garnish with coriander leaves.",
+    "rating": 4.9
+  },
+  {
+    "id": 1,
+    "recipe_name": "Pad Thai",
+    "picture": "https://i.ibb.co/fkHbRYW/Pad-Thai.jpg",
+    "ingredients": [
+      "rice noodles",
+      "shrimp or chicken",
+      "bean sprouts",
+      "tamarind paste",
+      "fish sauce",
+      "sugar",
+      "eggs",
+      "garlic",
+      "shallots",
+      "roasted peanuts",
+      "chili flakes",
+      "lime wedges"
+    ],
+    "cooking_method": "1. Soak the rice noodles in warm water for 15 minutes. 2. In a wok, heat oil and sauté garlic and shallots. 3. Add shrimp or chicken and cook until done. 4. Push everything to one side of the wok, crack the eggs into the empty side and scramble until cooked. 5. Add noodles, tamarind paste, fish sauce and sugar. 6. Mix well and cook for a few minutes. 7. Add bean sprouts and mix well. 8. Serve with roasted peanuts, chili flakes and lime wedges.",
+    "rating": 4.7
+  },
+  {
+    "id": 1,
+    "recipe_name": "Green Curry",
+    "picture": "https://i.ibb.co/LnxLbLG/Gaeng-Keow-Wan-Gai-Green-Curry-Chicken.jpg",
+    "ingredients": [
+      "chicken",
+      "coconut milk",
+      "green curry paste",
+      "eggplant",
+      "bamboo shoots",
+      "green beans",
+      "kaffir lime leaves",
+      "basil leaves",
+      "fish sauce",
+      "palm sugar"
+    ],
+    "cooking_method": "1. Heat the coconut milk in a wok or pot. 2. Add the green curry paste and stir until fragrant. 3. Add chicken and cook until done. 4. Add vegetables, kaffir lime leaves, fish sauce and palm sugar. 5. Simmer until the vegetables are cooked. 6. Add basil leaves and cook for another minute. 7. Serve with rice.",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "recipe_name": "Som Tum (Papaya Salad)",
+    "picture": "https://i.ibb.co/GpKGzkm/Som-Tum-Papaya-Salad.jpg",
+    "ingredients": [
+      "green papaya",
+      "tomatoes",
+      "long beans",
+      "garlic",
+      "bird's eye chilies",
+      "palm sugar",
+      "fish sauce",
+      "lime juice",
+      "peanuts"
+    ],
+    "cooking_method": "1. Crush garlic and chilies in a mortar and pestle. 2. Add palm sugar, fish sauce and lime juice. 3. Add shredded green papaya, tomatoes and long beans. 4. Mix well. 5. Serve with crushed peanuts.",
+    "rating": 4.6
+  },
+  {
+    "id": 2,
+    "recipe_name": "Gaeng Daeng (Red Curry)",
+    "picture": "https://i.ibb.co/TwD99xY/Gaeng-Daeng-Red-Curry.jpg",
+    "ingredients": [
+      "beef or chicken",
+      "coconut milk",
+      "red curry paste",
+      "bamboo shoots",
+      "eggplant",
+      "kaffir lime leaves",
+      "basil leaves",
+      "fish sauce",
+      "palm sugar"
+    ],
+    "cooking_method": "1. Heat the coconut milk in a wok or pot. 2. Add the red curry paste and stir until fragrant. 3. Add beef or chicken and cook until done. 4. Add bamboo shoots, eggplant, kaffir lime leaves, fish sauce and palm sugar. 5. Simmer until the vegetables are cooked. 6. Add basil leaves and cook for another minute. 7. Serve with rice.",
+    "rating": 4.7
+  },
+  {
+    "id": 2,
+    "recipe_name": "Pad Krapow Moo (Stir-Fried Basil Pork)",
+    "picture": "https://i.ibb.co/NV9xpyw/Pad-Krapow-Moo-Stir-Fried-Basil-Pork.jpg",
+    "ingredients": [
+      "ground pork",
+      "garlic",
+      "bird's eye chilies",
+      "holy basil leaves",
+      "fish sauce",
+      "soy sauce",
+      "oyster sauce",
+      "sugar",
+      "vegetable oil"
+    ],
+    "cooking_method": "1. Heat oil in a wok or pan. 2. Add garlic and chilies and stir-fry until fragrant. 3. Add ground pork and stir-fry until done. 4. Add fish sauce, soy sauce, oyster sauce and sugar. 5. Add holy basil leaves and stir-fry for another minute. 6. Serve with rice and a fried egg.",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "recipe_name": "Tom Yum Goong (Spicy Shrimp Soup)",
+    "picture": "https://i.ibb.co/WDvBJP0/Tom-Yum-Goong-Spicy-Shrimp-Soup.jpg",
+    "ingredients": [
+      "shrimp",
+      "lemongrass",
+      "galangal",
+      "kaffir lime leaves",
+      "bird's eye chilies",
+      "mushrooms",
+      "tomatoes",
+      "fish sauce",
+      "lime juice"
+    ],
+    "cooking_method": "1. Boil lemongrass, galangal and kaffir lime leaves in water. 2. Add shrimp and mushrooms. 3. Add fish sauce and lime juice. 4. Serve hot.",
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "recipe_name": "Pad Thai (Stir-Fried Rice Noodles)",
+    "picture": "https://i.ibb.co/HKvB6TS/Pad-Thai-Stir-Fried-Rice-Noodles.jpg",
+    "ingredients": [
+      "rice noodles",
+      "shrimp or chicken",
+      "eggs",
+      "bean sprouts",
+      "tofu",
+      "garlic chives",
+      "fish sauce",
+      "tamarind paste",
+      "palm sugar",
+      "peanuts"
+    ],
+    "cooking_method": "1. Soak rice noodles in warm water for 10 minutes. 2. Heat oil in a wok or pan. 3. Add shrimp or chicken and cook until done. 4. Add garlic chives and tofu. 5. Push everything to one side and crack eggs into the wok or pan. 6. Add fish sauce, tamarind paste and palm sugar. 7. Drain the rice noodles and add to the wok or pan. 8. Add bean sprouts and stir-fry for another minute. 9. Serve with crushed peanuts.",
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "recipe_name": "Khao Soi (Curry Noodle Soup)",
+    "picture": "https://i.ibb.co/b7TFZGq/Khao-Soi-Curry-Noodle-Soup.jpg",
+    "ingredients": [
+      "chicken or beef",
+      "coconut milk",
+      "yellow curry paste",
+      "noodles",
+      "bean sprouts",
+      "shallots",
+      "lime",
+      "pickled mustard greens",
+      "roasted chili paste"
+    ],
+    "cooking_method": "1. Cook chicken or beef in coconut milk and yellow curry paste. 2. Boil noodles separately. 3. Serve curry over the noodles. 4. Garnish with bean sprouts, shallots, lime, pickled mustard greens and roasted chili paste.",
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "recipe_name": "Gaeng Keow Wan Gai (Green Curry Chicken)",
+    "picture": "https://i.ibb.co/LnxLbLG/Gaeng-Keow-Wan-Gai-Green-Curry-Chicken.jpg",
+    "ingredients": [
+      "chicken",
+      "coconut milk",
+      "green curry paste",
+      "eggplant",
+      "bamboo shoots",
+      "Thai basil",
+      "kaffir lime leaves",
+      "fish sauce",
+      "palm sugar"
+    ],
+    "cooking_method": "1. Cook chicken in coconut milk and green curry paste. 2. Add eggplant and bamboo shoots. 3. Season with fish sauce and palm sugar. 4. Serve with Thai basil and kaffir lime leaves.",
+    "rating": 4.9
+  },
+  {
+    "id": 4,
+    "recipe_name": "Som Tum (Papaya Salad)",
+    "picture": "https://i.ibb.co/dpDVNSq/Som-Tum-Papaya-Salad-1.jpg",
+    "ingredients": [
+      "green papaya",
+      "tomatoes",
+      "green beans",
+      "peanuts",
+      "dried shrimp",
+      "palm sugar",
+      "fish sauce",
+      "lime juice",
+      "bird's eye chilies"
+    ],
+    "cooking_method": "1. Peel and shred green papaya. 2. Add tomatoes, green beans, peanuts and dried shrimp. 3. Mix palm sugar, fish sauce, lime juice and bird's eye chilies to make dressing. 4. Toss the salad with the dressing. 5. Serve.",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "recipe_name": "Massaman Curry",
+    "picture": "https://i.ibb.co/FgXYCT4/Massaman-Curry.jpg",
+    "ingredients": [
+      "beef",
+      "coconut milk",
+      "massaman curry paste",
+      "potatoes",
+      "onions",
+      "peanuts",
+      "cinnamon",
+      "star anise",
+      "cardamom",
+      "bay leaves"
+    ],
+    "cooking_method": "1. Cook beef in coconut milk and massaman curry paste. 2. Add potatoes and onions. 3. Add peanuts, cinnamon, star anise, cardamom and bay leaves. 4. Simmer until everything is cooked. 5. Serve with rice.",
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "recipe_name": "Tom Kha Gai (Coconut Chicken Soup)",
+    "picture": "https://i.ibb.co/n8Ysb7C/Tom-Kha-Gai-Coconut-Chicken-Soup.jpg",
+    "ingredients": [
+      "chicken",
+      "coconut milk",
+      "lemongrass",
+      "galangal",
+      "kaffir lime leaves",
+      "bird's eye chilies",
+      "mushrooms",
+      "fish sauce",
+      "lime juice"
+    ],
+    "cooking_method": "1. Boil lemongrass, galangal and kaffir lime leaves in coconut milk. 2. Add chicken, mushrooms and bird's eye chilies. 3. Season with fish sauce and lime juice. 4. Serve hot.",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "recipe_name": "Gaeng Daeng (Red Curry)",
+    "picture": "https://i.ibb.co/0Gs5KRJ/Green-Curry.webp",
+    "ingredients": [
+      "beef or chicken",
+      "coconut milk",
+      "red curry paste",
+      "bamboo shoots",
+      "bell peppers",
+      "Thai basil",
+      "kaffir lime leaves",
+      "fish sauce",
+      "palm sugar"
+    ],
+    "cooking_method": "1. Cook beef or chicken in coconut milk and red curry paste. 2. Add bamboo shoots and bell peppers. 3. Season with fish sauce and palm sugar. 4. Garnish with Thai basil and kaffir lime leaves. 5. Serve with rice.",
+    "rating": 4.8
+  },
+  {
+    "id": 5,
+    "recipe_name": "Khao Pad (Fried Rice)",
+    "picture": "https://i.ibb.co/99ZVS4K/Khao-Pad-Fried-Rice.png",
+    "ingredients": [
+      "cooked rice",
+      "shrimp or chicken",
+      "eggs",
+      "garlic",
+      "onion",
+      "carrots",
+      "peas",
+      "soy sauce",
+      "fish sauce",
+      "sugar"
+    ],
+    "cooking_method": "1. Heat oil in a wok or pan. 2. Add garlic and onion. 3. Add shrimp or chicken and cook until done. 4. Add carrots and peas. 5. Push everything to one side and crack eggs into the wok or pan. 6. Add cooked rice. 7. Season with soy sauce, fish sauce and sugar. 8. Stir-fry until everything is heated through. 9. Serve.",
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "recipe_name": "Pad See Ew (Stir-Fried Rice Noodles)",
+    "picture": "https://i.ibb.co/8d06fxZ/Pad-See-Ew-Stir-Fried-Rice-Noodles.webp",
+    "ingredients": [
+      "rice noodles",
+      "beef or chicken",
+      "egg",
+      "broccoli",
+      "soy sauce",
+      "oyster sauce",
+      "garlic",
+      "vegetable oil",
+      "sugar"
+    ],
+    "cooking_method": "1. Soak rice noodles in hot water until soft. 2. Heat oil in a wok or pan. 3. Add garlic and meat. 4. Add egg and scramble. 5. Add noodles and broccoli. 6. Season with soy sauce, oyster sauce and sugar. 7. Stir-fry until everything is heated through. 8. Serve.",
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "recipe_name": "Yum Nua (Thai Beef Salad)",
+    "picture": "https://i.ibb.co/FKL8bS3/Yum-Nua-Thai-Beef-Salad.jpg",
+    "ingredients": [
+      "beef",
+      "lettuce",
+      "tomatoes",
+      "cucumber",
+      "red onion",
+      "mint leaves",
+      "cilantro",
+      "lime juice",
+      "fish sauce",
+      "palm sugar",
+      "bird's eye chilies"
+    ],
+    "cooking_method": "1. Grill or broil beef until medium rare. 2. Let it cool and slice thinly. 3. Add lettuce, tomatoes, cucumber, red onion, mint leaves and cilantro. 4. Mix lime juice, fish sauce, palm sugar and bird's eye chilies to make dressing. 5. Toss the salad with the dressing. 6. Serve.",
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "recipe_name": "Pad Thai",
+    "picture": "https://i.ibb.co/T4JD4kp/Pad-Thai-1.jpg",
+    "ingredients": [
+      "rice noodles",
+      "shrimp or chicken",
+      "egg",
+      "bean sprouts",
+      "green onion",
+      "garlic",
+      "peanuts",
+      "lime wedges",
+      "tamarind paste",
+      "fish sauce",
+      "sugar"
+    ],
+    "cooking_method": "1. Soak rice noodles in hot water until soft. 2. Heat oil in a wok or pan. 3. Add garlic and shrimp or chicken. 4. Add egg and scramble. 5. Add noodles and bean sprouts. 6. Season with tamarind paste, fish sauce and sugar. 7. Serve with green onion, peanuts and lime wedges.",
+    "rating": 4.8
+  },
+  {
+    "id": 6,
+    "recipe_name": "Pad Krapow Gai (Stir-Fried Chicken with Basil)",
+    "picture": "https://i.ibb.co/X7rLhNV/Pad-Krapow-Gai-Stir-Fried-Chicken-with-Basil.jpg",
+    "ingredients": [
+      "chicken breast",
+      "garlic",
+      "Thai chilies",
+      "holy basil leaves",
+      "oyster sauce",
+      "soy sauce",
+      "fish sauce",
+      "sugar",
+      "vegetable oil",
+      "rice"
+    ],
+    "cooking_method": "1. Cook rice according to package instructions. 2. Heat vegetable oil in a pan over medium-high heat. 3. Add garlic and Thai chilies and stir-fry until fragrant. 4. Add chicken and stir-fry until cooked through. 5. Season with oyster sauce, soy sauce, fish sauce and sugar. 6. Add holy basil leaves and stir-fry until wilted. 7. Serve with rice.",
+    "rating": 4.6
+  },
+  {
+    "id": 6,
+    "recipe_name": "Kao Mok Gai (Thai Chicken Biryani)",
+    "picture": "https://i.ibb.co/cLyvwmJ/Kao-Mok-Gai-Thai-Chicken-Biryani.jpg",
+    "ingredients": [
+      "chicken thighs",
+      "jasmine rice",
+      "onion",
+      "garlic",
+      "ginger",
+      "lemongrass",
+      "green cardamom pods",
+      "cinnamon stick",
+      "cloves",
+      "bay leaves",
+      "coconut milk",
+      "chicken stock",
+      "fish sauce",
+      "salt",
+      "lime",
+      "coriander leaves"
+    ],
+    "cooking_method": "1. Rinse the rice and soak it in water for 30 minutes. 2. Heat some oil in a pan and sauté the onions, garlic, ginger, and lemongrass. 3. Add the chicken and sauté for a few minutes. 4. Add the spices, including the cardamom, cinnamon, cloves, and bay leaves, and fry for a few minutes. 5. Add the coconut milk and chicken stock, and bring to a boil. 6. Drain the rice and add it to the pot. 7. Add fish sauce and salt to taste, and stir everything together. 8. Cover and cook on low heat until the rice is done. 9. Squeeze some lime juice over the rice and garnish with coriander leaves.",
+    "rating": 4.7
+  },
+  {
+    "id": 6,
+    "recipe_name": "Khao Soi (Northern Thai Coconut Curry Noodles)",
+    "picture": "https://i.ibb.co/Cwt1TyZ/Khao-Soi-Northern-Thai-Coconut-Curry-Noodles.jpg",
+    "ingredients": [
+      "chicken thighs",
+      "egg noodles",
+      "coconut milk",
+      "curry powder",
+      "turmeric",
+      "coriander seeds",
+      "cumin seeds",
+      "shallot",
+      "garlic",
+      "ginger",
+      "lemongrass",
+      "kaffir lime leaves",
+      "sugar",
+      "fish sauce",
+      "lime",
+      "bean sprouts",
+      "crispy fried noodles"
+    ],
+    "cooking_method": "1. Heat some oil in a pot and fry the curry powder, turmeric, coriander seeds, and cumin seeds until fragrant. 2. Add the shallots, garlic, ginger, and lemongrass, and fry until softened. 3. Add the chicken and fry until cooked through. 4. Pour in the coconut milk and bring to a boil. 5. Add the kaffir lime leaves, sugar, and fish sauce, and let simmer for 10 minutes. 6. Cook the egg noodles according to the package instructions. 7. Drain the noodles and divide them among serving bowls. 8. Pour the curry over the noodles and top with bean sprouts, crispy fried noodles, and lime wedges.",
+    "rating": 4.8
+  },
+  {
+    "id": 6,
+    "recipe_name": "Tom Yum Fried Rice",
+    "picture": "https://i.ibb.co/mthysCQ/Tom-Yum-Fried-Rice.jpg",
+    "ingredients": [
+      "cooked jasmine rice",
+      "shrimp",
+      "lemon grass",
+      "kaffir lime leaves",
+      "galangal",
+      "bird's eye chili",
+      "shallot",
+      "garlic",
+      "fish sauce",
+      "lime juice",
+      "palm sugar",
+      "vegetable oil",
+      "eggs",
+      "cilantro leaves"
+    ],
+    "cooking_method": "1. Heat some oil in a pan and fry the shrimp until cooked through. Set aside. 2. In the same pan, add more oil and sauté the lemon grass, kaffir lime leaves, galangal, bird's eye chili, shallot, and garlic until fragrant. 3. Add the cooked rice and stir to combine with the aromatics. 4. Add fish sauce, lime juice, and palm sugar, and continue to stir fry until the rice is evenly coated with the sauce. 5. Push the rice to the side of the pan and add the beaten eggs. Scramble the eggs until they're cooked through, then mix with the rice. 6. Add the cooked shrimp and stir to combine. 7. Serve the fried rice hot, garnished with cilantro leaves.",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "recipe_name": "Moo Dad Diew (Crispy Pork Jerky)",
+    "picture": "https://i.ibb.co/9t020qk/Moo-Dad-Diew-Crispy-Pork-Jerky.jpg",
+    "ingredients": [
+      "pork belly",
+      "garlic",
+      "coriander roots",
+      "white pepper",
+      "salt",
+      "dark soy sauce",
+      "oyster sauce",
+      "palm sugar",
+      "vegetable oil"
+    ],
+    "cooking_method": "1. Cut the pork belly into small pieces and marinate with minced garlic, coriander roots, white pepper, salt, dark soy sauce, oyster sauce, and palm sugar for at least 30 minutes. 2. Heat up some oil in a wok and fry the pork belly until crispy. 3. Remove the pork from the wok and let it cool down for a few minutes. 4. Cut the pork into thin slices and place them back in the wok. 5. Fry the pork slices until they are crispy and golden brown. 6. Remove the pork slices from the wok and drain on paper towels. 7. Serve the crispy pork jerky as a snack or a side dish.",
+    "rating": 4.8
+  }
+]

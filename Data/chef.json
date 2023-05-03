@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co/L8VvYTH/chef-1.jpg",
+    "name": "John Smith",
+    "experience_years": 10,
+    "recipe_count": 50,
+    "likes": 1000,
+    "recipe_link": "https://example.com/chef1/recipes",
+    "description": "John Smith is a renowned chef who specializes in Italian cuisine. He trained in Italy for several years before bringing his skills to the United States. His dishes are known for their fresh ingredients and bold flavors."
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/sF8tc1B/chef-2.jpg",
+    "name": "Maria Rodriguez",
+    "experience_years": 8,
+    "recipe_count": 30,
+    "likes": 800,
+    "recipe_link": "https://example.com/chef2/recipes",
+    "description": "Maria Rodriguez is a chef who is passionate about using local, seasonal ingredients in her cooking. She honed her skills working at several top restaurants in Europe before moving to the United States. Her dishes are elegant and full of flavor."
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/Jj7h3w9/chef-3.jpg",
+    "name": "Julia Kim",
+    "experience_years": 12,
+    "recipe_count": 60,
+    "likes": 1200,
+    "recipe_link": "https://example.com/chef3/recipes",
+    "description": "Julia Kim is a chef who blends her Korean heritage with contemporary cooking techniques to create unique and flavorful dishes. She has trained at several Michelin-starred restaurants in Asia and Europe, and now runs her own restaurant in the United States."
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/FznsQ4j/chef-4.jpg",
+    "name": "Ahmed Hassan",
+    "experience_years": 6,
+    "recipe_count": 25,
+    "likes": 500,
+    "recipe_link": "https://example.com/chef4/recipes",
+    "description": "Ahmed Hassan is a chef who specializes in Middle Eastern cuisine. He grew up in Lebanon, where he learned traditional cooking methods from his grandmother. He now shares his love of Lebanese food with customers at his restaurant in the United States."
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co/9cLVqjg/chef-5.jpg",
+    "name": "Sophie Dupont",
+    "experience_years": 15,
+    "recipe_count": 75,
+    "likes": 1500,
+    "recipe_link": "https://i.ibb.co/9cLVqjg/chef-5.jpg",
+    "description": "Sophie Dupont is a French chef who has worked in some of the world's top restaurants. She is known for her inventive dishes that showcase classic French techniques with a modern twist. Her restaurant in the United States is a must-visit for foodies."
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/tCDT2Mv/chef-6.jpg",
+    "name": "Ravi Gupta",
+    "experience_years": 9,
+    "recipe_count": 40,
+    "likes": 900,
+    "recipe_link": "https://example.com/chef6/recipes",
+    "description": "Ravi Gupta is a chef who specializes in Indian cuisine. He grew up in India and learned to cook from his grandmother. He now shares his passion for Indian food with customers at his restaurant in the United States."
+  }
+]
